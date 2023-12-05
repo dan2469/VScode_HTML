@@ -5,7 +5,12 @@
     <title>Produtos do Starbobby</title>
     <link rel="stylesheet" href="style.CSS"
 </head>
+<p> "Nossos produtos são extremamente diversos, alguns exemplos do nosso cardapio estão abaixo;"</p>
+<p>
+    <img src="cafe.jpeg" >
+    <img src="comida.jpeg" >
 
+</p>
 <body>
 
 </body>
