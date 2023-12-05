@@ -1,11 +1,11 @@
 <!DOCTYPEhtml>
-<html lang-"pt-br"
+<html lang-"pt-br">
 <head>
     <meta charset="UTF-8"
     <title>Produtos do Starbobby</title>
-
+    <link rel="stylesheet" href="style.CSS"
 </head>
 
 <body>
-    
+
 </body>
