@@ -4,4 +4,21 @@
         <meta charset="UTF-8"
         <title>Funcionários do Starbobby</title>
         <link rel="stylesheet" href="style.CSS"
+
     </head>
+    
+    <p>"Conheça nossos colaboradores:" </p>
+
+    <p>
+        <center>
+            <img src="cafe.jpeg" >
+        
+        </p>
+        
+        <p>"Cafés de diversos tipos"</p>
+        
+        <p>
+        
+            <img src="comida.jpeg" >
+        
+        </center>
