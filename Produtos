@@ -8,7 +8,10 @@
 <p> "Nossos produtos são extremamente diversos, alguns exemplos do nosso cardapio estão abaixo;"</p>
 <p>
     <img src="cafe.jpeg" >
+<center>
     <img src="comida.jpeg" >
+</center>
+    
 
 </p>
 <body>
